@@ -35,7 +35,7 @@ $ source bvs/bin/activate
 
 $ sudo pip3 install django
 
-$ django-admin –version
+$ django-admin --version
 
 $ django-admin startproject bvs
 
