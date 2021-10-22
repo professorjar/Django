@@ -57,4 +57,11 @@ $ sudo python3 manage.py runserver
 
 $ http://127.0.0.1:8000/
 
+Para criar um novo app use o comando
+
+clear
+cd nome do diretório que contem o manage.py 
+
+sudo python3 manage.py startapp novoapp
+
  
